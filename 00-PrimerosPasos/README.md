@@ -15,7 +15,7 @@
 
 ### Preparando tu compu:
 
-Acá vas a encontrar todo lo que necesitas para arrancar el Curso de Preparación 12324:
+Acá vas a encontrar todo lo que necesitas para arrancar el Curso de Preparación 3:
 
 * [Editor de Texto](./editorTexto.md)
 * [Github](./github.md)
